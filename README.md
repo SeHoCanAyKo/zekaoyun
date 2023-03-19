@@ -1,2 +1,2 @@
 # zekaoyun
-java, mind game, zeka oyunu
+Program, rastgele iki sayı ve rastgele bir işlem seçer ve kullanıcıya bu işlemin sonucunu hesaplaması için sorar. Kullanıcının cevabı doğruysa, kullanıcıya tebrikler mesajı verilir ve puanı artar. Yanlış cevap verilirse, kullanıcıya üzgünüm mesajı verilir ve puanı azalır. Kullanıcıya tekrar oynamak isteyip istemediği sorulur ve devam edilip edilmeyeceği kullanıcının cevabına göre belirlenir.
